@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yiqirui12
+- 🌱 I’m currently learning Python and pandas.
+- 💞️ Passionate about analyzing data and deriving insights.
